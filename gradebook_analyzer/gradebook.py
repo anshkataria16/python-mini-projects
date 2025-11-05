@@ -10,7 +10,7 @@
 
 def show_menu():
     print("\n===============================")
-    print("     GRADEBOOK ANALYZER 📘     ")
+    print("     GRADEBOOK ANALYZER     ")
     print("===============================")
 
 def input_student_data():
@@ -109,3 +109,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
