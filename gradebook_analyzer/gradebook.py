@@ -1,8 +1,7 @@
-# --------------------------------------------
+
 # Name: Ansh Kataria
-# Date: November 2025
-# Project: Gradebook Analyzer
-# --------------------------------------------
+# Date:4 November 2025
+# Project: Gradebook Analyzer
 
 #This program helps the teacher to record marks of students,
 # calculate statistics like average and median, assign letter grades,
