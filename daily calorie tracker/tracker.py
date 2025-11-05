@@ -25,9 +25,9 @@ average_calories = total_calories / len(meal_calories)
 daily_limit = float(input("\nEnter your daily calorie limit: "))
 
 if total_calories > daily_limit:
-    status = f"⚠️ You ate {total_calories - daily_limit:.2f} calories more than your daily limit!"
+    status = f" You ate {total_calories - daily_limit:.2f} calories more than your daily limit!"
 else:
-    status = f"✅ You are within your limit! You can still eat {daily_limit - total_calories:.2f} calories."
+    status = f"You are within your limit! You can still eat {daily_limit - total_calories:.2f} calories."
 
 print("\n--------------------------------------")
 print("           MEAL SUMMARY")
