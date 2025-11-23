@@ -1,0 +1,10 @@
+=== Daily Calorie Tracker Log ===
+
+Meal Name	Calories
+--------------------------------
+breakfast	230.4
+lunch	34.5
+dinner	32.5
+--------------------------------
+Total: 297.4
+Average: 99.13
